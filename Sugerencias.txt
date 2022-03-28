@@ -1,0 +1,16 @@
+1- Subir imagen portada
+2- Subtitulo ¿Quiénes somos?
+3- Justificar texto quienes somos
+4- Cambiar guines bajos por medios
+5- A teléfono le falta el acento
+6- A dirección le falta el acento 
+7- Patrilla Comunicaciones es una empresa joven y dinámica, especializada en la reparación de telefonía fija, móvil, computación, radios, centrales telefónicas y redes. A su vez, realizamos venta de insumos y accesorios de dichos medios de comunicación.
+Nuestro principal objetivo es ofrecer soluciones personalizadas, concretas y sumamente rápidas a nuestros clientes. Con la experiencia adquirida durante más de 10 años en el mercado de reparación estamos en disposición de ofrecer lo que usted necesita: un servicio técnico experimentado, sólido, eficiente y rápido.
+Nuestro éxito no son sólo los productos y servicios que ofrecemos sino principalmente nuestra actitud de calidad y servicio.
+8- EN CELULARES Gracias a nuestra amplia experiencia en el mercado podemos darte la mejor atención personalizada, dando solución a los problemas de tu dispositivo. Trabajamos con todas las marcas y los repuestos de primer nivel, ofreciendo un excelente resultado con garantía asegurada.
+9- EN COMPUTADORAS Nuestro Servicio Técnico de computación realiza todas las tareas de mantenimiento, actualizaciones, reparaciones de PC y Notebook
+10- EN CÁMARAS Realizamos el mejor asesoramiento, venta y colocación de cámaras de seguridad, para que puedas sentirte seguro viendo todo lo que pasa en tu casa o en empresa desde el lugar donde estés.
+11- EN EQUIPOS DE RADIO Contamos con todas las herramientas para brindarle el mejor servicio a tu equipo de radio, como así también tenemos venta de equipos nuevos o usados.
+12- ACCESORIOS Contamos con la venta de diversos accesorios, tales como: cargadores, fundas, soportes, variedad de cables, memorias, templados, pendrive y colocación de Hidrogel.
+13- Cambiar la palabra texto por mensaje 
+14- Garantía (icono) le falta el acento
